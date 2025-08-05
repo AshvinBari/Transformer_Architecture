@@ -65,7 +65,7 @@ jupyter notebook Transformer_(1).ipynb
 
 **Ashvin Bari**  
 👨‍💻 AI Engineer | ML Developer | Educator  
-🔗 [GitHub](https://github.com/AshvinBari) • [LinkedIn](https://www.linkedin.com/in/ashvinbari/)
+🔗 [GitHub](https://github.com/AshvinBari) • [LinkedIn](https://www.linkedin.com/in/ashvinkumar-bari-321302250/)
 
 ---
 
